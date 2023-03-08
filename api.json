@@ -1,0 +1,306 @@
+{
+  "education": [
+    {
+      "collegeName": "All India Institute of Medical Sciences (AIIMS), New Delhi, India",
+      "degree": "PhD, Physiology",
+      "year": "2015",
+      "img": "https://media.biltrax.com/wp-content/uploads/2022/07/7f2fb4d21b156c5746011b69052701b4.jpg"
+    },
+    {
+      "collegeName": "Centre for Behavioral and Cognitive Sciences, University of Allahabad, India",
+      "degree": "M.Sc. Cognitive Sciences",
+      "year": "",
+      "img": "https://pbs.twimg.com/profile_images/1146156951207907331/tDtLzN5s_400x400.jpg"
+    },
+    {
+      "collegeName": "Banaras Hindu University, Varanasi, India",
+      "degree": "B.Sc. (Honors) Chemistry",
+      "year": "",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Faculty_of_Law%2C_Banaras_Hindu_University_Logo.png/220px-Faculty_of_Law%2C_Banaras_Hindu_University_Logo.png"
+    }
+  ],
+  "professionalSkills": [
+    {
+      "skillName": "Neurophysiological techniques",
+      "skillNeed": "EEG, fMRI, electrophysiology"
+    },
+    {
+      "skillName": "Familiar with regulatory submissions",
+      "skillNeed": "NDA, IND and/or BLA"
+    },
+    {
+      "skillName": "Awareness of good clinical practice and good laboratory practice",
+      "skillNeed": "GCP,GLP"
+    },
+    {
+      "skillName": "Statistical parametric mapping , Spike 2, plexon and neuroexplorer,Image analysis",
+      "skillNeed": "Softwares- MATLAB, SPM, Halo, Image J"
+    },
+    {
+      "skillName": "Statistical analyses using statistical tools",
+      "skillNeed": "SPSS, Sigma stat, Graph pad prism"
+    },
+    {
+      "skillName": "Histopathological analysis of rat brain sections, Neuronal staining, Stereotaxis surgery, animal handling and behavioural testing",
+      "skillNeed": ""
+    }
+  ],
+  "CoursesandTraning": [
+    {
+      "name": "Introduction to Design and Conduct of Clinical Trials. U.S Food and Drug Administration (FDA)",
+      "date": "September 9-15, 2020"
+    },
+    {
+      "name": "Introduction to Toxicology. U.S Food and Drug Administration (FDA)",
+      "date": "7th May, 2018"
+    },
+    {
+      "name": "International E.E.G. Course P.G.I., Chandigarh, India",
+      "date": "December 10-11, 2003"
+    },
+    {
+      "name": "Short-Term Course on Computational Neuroscience, IIT Kanpur, India",
+      "date": "July 7-18, 2003"
+    }
+  ],
+  "oral": [
+    {
+      "name": "15th Annual DNACON: Neurosciences-in the evolving era of technology and teamwork",
+      "date": "16th February 2013",
+      "location": "Delhi Neurological Association"
+    },
+    {
+      "name": "3rd International Conference on Eye tracking, Visual cognition and Emotion (ETVCE 2012)",
+      "date": "25th & 26th October 2012",
+      "location": " Lisbon, Portugal"
+    }
+  ],
+  "posters": [
+    {
+      "name": "Society for Neuroscience 2022 annual meeting",
+      "date": "12-16 November",
+      "location": "San Diego, California, United States"
+    },
+    {
+      "name": "Experimental Biology 2018 meeting",
+      "date": "21-25 April 2018",
+      "location": "San Diego, California, United States"
+    },
+    {
+      "name": "National Center for Toxicological Research Science Day",
+      "date": "April 2018",
+      "location": "Food and Drug administration (FDA)"
+    },
+    {
+      "name": "Gordon Research Conference on Eye Movements",
+      "date": "7- 12 July 2013",
+      "location": "Stonehill College in Easton MA United States"
+    },
+    {
+      "name": "57th Annual conference of Physiologists and Pharmocologists",
+      "date": "Stonehill College in Easton MA United States",
+      "location": "India, IJPP"
+    },
+    {
+      "name": "International update of Basic and Clinical Neuroscience advances and XXIV Annual Conference of Indian Academy of Neurosciences",
+      "date": " December 17-20,2006",
+      "location": " ITRC, Lucknow, India"
+    },
+    {
+      "name": "Third NBRC International Conference, (sponsored by Nature Neuroscience)",
+      "date": " December 11-13, 2006",
+      "location": " Delhi, India"
+    },
+    {
+      "name": "International Symposium",
+      "date": " 15-17 December, 2003",
+      "location": " NBRC, India"
+    }
+  ],
+  "publications": [
+    {
+      "pub_id": 1,
+      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach.Journal of Applied Toxicology",
+      "date": "2020 Nov 02",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jat.4098",
+      "Author": ["Srivastava A", "Hanig JP"],
+      "button": "DOI:10.1002/jat.4098"
+    },
+    {
+      "pub_id": 2,
+      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid.International Journal of Toxicology",
+      "date": "2020 May 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32468881/",
+      "Author": [
+        "Srivastava A",
+        "Liachenko S",
+        "Sarkar S",
+        "Paule M",
+        "Negi G",
+        "Pandey J",
+        "Hanig JP"
+      ],
+      "button": "DOI:10.1177/1091581820928497"
+    },
+    {
+      "pub_id": 3,
+      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study. Neuro- Opthlamology",
+      "date": "2019",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/01658107.2019.1652656",
+      "Author": ["Srivastava A", "Sharma R", "Goyal V", "Sood SK", "Kumaran S"],
+      "button": "DOI: 10.1080/01658107.2019.1652656"
+    },
+    {
+      "pub_id": 4,
+      "title": "Relationship between saccade and gait. Journal of Movement Disorders",
+      "date": "2018 Sept",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
+      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
+      "button": "11(3):93-106"
+    },
+    {
+      "pub_id": 5,
+      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease. Neurology, Psychiatry and Brain Research, Volume 27",
+      "date": "February 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
+      "Author": ["Srivastava A", "Goyal V", "Sood SK", "Sharma R"],
+      "button": "doi: 10.14802/jmd.18018"
+    }
+  ],
+
+  "HonorAward": [
+    {
+      "award": "Dr. B. K Anand Gold Medal in Physiology for best postgraduate student",
+      "location": "AIIMS, New Delhi,India",
+      "year": "June, 2015"
+    },
+    {
+      "award": "Nature Travel Award (Nature Publishing Group) for Gordon Research Conference on Eye Movements",
+      "location": "Stonehill College in Easton MA United States",
+      "year": "July, 2013"
+    },
+    {
+      "award": "Award for oral paper presentation, DNACON 2013, 15th Annual DNACON: Neurosciences-in the evolving era of technology and teamwork",
+      "location": "Delhi Neurological Association",
+      "year": "Feb, 2013"
+    },
+    {
+      "award": "Travel award for International conference on eye tracking and cognition, Lisbon Portugal-Department of Biotechnology (DBT)",
+      "location": "Government of India, 2012",
+      "year": "Feb, 2012"
+    }
+  ],
+  "PeerReview": [
+    {
+      "experience": "Peer Reviewed for the journals- Toxicologic Pathology"
+    },
+    {
+      "experience": "Brain sciences"
+    },
+    {
+      "experience": "IJERPH"
+    },
+    {
+      "experience": "Annals of eurosciences"
+    },
+    {
+      "experience": "Annals of Indian Academy of Neurology"
+    }
+  ],
+  "pubications": [
+    {
+      "pub_id": 1,
+      "title": "Quantitative Neurotoxicology: Potential role of Artificial Intelligence/Deep learning approach.Journal of Applied Toxicology.",
+      "date": "2020-11-02",
+      "url": "https://doi.org/10.1002/jat.4098",
+      "Author": ["Srivastava A, Hanig JP"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 2,
+      "title": "Quantitative Neurotoxicology: An assessment of the neurotoxic profile of Kainic Acid.Journal of Applied Toxicology",
+      "date": "2020-05-29",
+      "url": "https://doi.org/10.1177/1091581820928497",
+      "Author": [
+        "Srivastava A, Liachenko S, Sarkar S, Paule M, Negi G, Pandey J, Hanig J"
+      ],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 3,
+      "title": "Saccadic Eye Movements in Patients of Young Onset Parkinson’s Disease: A BOLD fMRI study,Neuro- Opthlamology",
+      "date": "2019",
+      "url": "https://doi.org/10.1080/01658107.2019.1652656",
+      "Author": ["Srivastava A, Sharma R, Goyal V, Sood SK, Kumaran S"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 4,
+      "title": "Relationship between saccade and gait.Journal of Movement Disorders",
+      "date": "2018-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30086615/",
+      "Author": ["Srivastava A, Ahmad OF, Pacia CM, Hallett M, Lungu C"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 5,
+      "title": "Reduced Saccadic velocity in Patients with Young Onset Parkinson’s Disease. Neurology, Psychiatry and Brain Research",
+      "date": "2018-02",
+      "url": "https://doi.org/10.14802/jmd.18018",
+      "Author": ["Srivastava A, Goyal V, Sood SK, Sharma R"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 6,
+      "title": "Cognition and control of saccadic system. In book P. Gamito, & P. Rosa (Eds.). I see you, you see me: Inferring cognitive and emotional processesfrom gazing behaviour. Newcastle-upon-Tyne: Cambridge Scholars Publishing",
+      "date": "",
+      "url": "https://www.cambridgescholars.com/resources/pdfs/978-1-4438-5460-3-sample.pdf",
+      "Author": ["Srivastava A, Goyal V, Sood SK, Sharma R"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 7,
+      "title": "Saccadic eye movements in Parkinson's Disease.Indian Journal of Ophthalmology",
+      "date": "2014-05",
+      "url": "https://doi.org/10.4103/0301-4738.133482",
+      "Author": ["Srivastava A, Sood SK, Sharma R, Goyal V"],
+      "button": "Read more"
+    },
+    {
+      "pub_id": 8,
+      "title": "Mechanism of selective attention: fMRI study of face-word stroop task performance. Indian Journal of Physiology and Pharmacology",
+      "date": "2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24968573/",
+      "Author": ["Vivekananth S, Sood SK, Kumaran S, Srivastava A"],
+      "button": "Read more"
+    }
+  ],
+  "workExperience": [
+    {
+      "Job_id": 1,
+      "Job_address": "Department of Neurosciences, Lerner Research Institute, Cleveland Clinic, Cleveland,Ohio, USA",
+      "Job_date": "May 2021- till date",
+      "Job_stat_one": "Involved in studying neuromodulation in patients suffering from movement disorders (Stroke,Parkinson’s disease) enrolled in a clinical trial of deep brain stimulation for motor recovery.",
+      "Job_stat_two": "Collaborated closely with a team of three other members",
+      "Job_designation": "Postdoctoral Fellow",
+      "url": "https://pbs.twimg.com/profile_images/929088511382343682/regsaLAR_400x400.jpg"
+    },
+    {
+      "Job_id": 2,
+      "Job_address": "Office of Testing & Research, Center for Drug Evaluation and Research, U.S. Food andDrug administration (FDA), Silver Spring, Maryland, USA",
+      "Job_date": "August 2017 - January 2021",
+      "Job_stat_one": "Regulatory neurotoxicology research studying effects of certain neurotoxins on brain",
+      "Job_stat_two": "Completed course on Design and Conduct of Clinical Trials",
+      "Job_designation": "Postdoctoral Fellow",
+      "url": "https://uploads.mwp.mprod.getusinfo.com/uploads/sites/23/2021/05/fda-logo-1140x684-1.jpg"
+    },
+    {
+      "Job_id": 3,
+      "Job_address": "Human Motor Control Section, National Institute of Neurological Disorders and Stroke,National Institutes of Health (NIH), Bethesda, Maryland USA",
+      "Job_date": "June 2016 - August 2017",
+      "Job_stat_one": "Involved in research studies aimed to characterize human cortical excitability and connectivityusing Transcranial magnetic stimulation (TMS) and Electroencephalography (EEG) in patientswith movement disorders",
+      "Job_designation": "Special Volunteer",
+      "url": "https://curehht.org/wp-content/uploads/2017/11/NIH-Library-of-Medicine-logo.png"
+    }
+  ]
+}
